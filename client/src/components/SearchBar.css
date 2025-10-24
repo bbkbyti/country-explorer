@@ -1,0 +1,11 @@
+.searchbar {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+@media (min-width: 768px) {
+  .searchbar {
+    grid-template-columns: 2fr 1fr;
+    gap: 12px;
+  }
+}
