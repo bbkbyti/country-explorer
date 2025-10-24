@@ -1,0 +1,7 @@
+.app-header {
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+}
+.brand {
+  font-size: 20px;
+}
